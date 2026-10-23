@@ -19,9 +19,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I+am+MEIMAOA;Welcome+to+My+Profile!;C%23+%C2%B7+.NET+%C2%B7+WPF+%C2%B7+Unity%2FTuanjie;I+build+games+and+launchers;SnakeGame+%2B+SnakeLauncherWPF;Always+learning+new+things+" alt="Typing SVG" />
   </a>
 </p>
-
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px" align="right">
-
 ---
 
 <!--   my-skils -->
@@ -35,19 +32,19 @@
 
 ---
 
-##  Highlight projects
+## Highlight projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [ SnakeGameWpf](https://github.com/MEIMAOA/SnakeGame) | Snake 5 modes + Arknights-style 3D Tower Defense (10 levels, skills, multi-language) | C# · Unity/Tuanjie · IMGUI |
-| [ SnakeLauncherWPF](https://github.com/MEIMAOA/SnakeLauncherWPF) | Game launcher with GitHub release sync, auto-update, Win11 acrylic UI | C# · .NET 10 · WPF |
-| [ Snake-Game-Python-Edition-](https://github.com/MEIMAOA/Snake-Game-Python-Edition-) | Multi-mode Snake engine (Classic / 100 AI Battle Royale / 4v4 / Extraction) with HMAC anti-cheat + Named Pipe IPC | Python · Pygame · IPC |
-| [ ShutdownTimer](https://github.com/MEIMAOA/ShutdownTimer) | Simple and reliable shutdown timer | C# |
+| [SnakeGameWpf](https://github.com/MEIMAOA/SnakeGame) | Snake 5 modes + Arknights-style 3D Tower Defense (10 levels, skills, multi-language) | C# · Unity/Tuanjie · IMGUI |
+| [SnakeLauncherWPF](https://github.com/MEIMAOA/SnakeLauncherWPF) | Game launcher with GitHub release sync, auto-update, Win11 acrylic UI | C# · .NET 10 · WPF |
+| [Snake-Game-Python-Edition-](https://github.com/MEIMAOA/Snake-Game-Python-Edition-) | Multi-mode Snake engine (Classic / 100 AI Battle Royale / 4v4 / Extraction) with HMAC anti-cheat + Named Pipe IPC | Python · Pygame · IPC |
+| [ShutdownTimer](https://github.com/MEIMAOA/ShutdownTimer) | Simple and reliable shutdown timer | C# |
 
 ---
 
 <!--   GitHub stats graph -->
-###  GitHub Activity Graph
+### GitHub Activity Graph
 
 ![MEIMAOA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MEIMAOA&theme=react-dark&hide_border=true)
 
@@ -81,7 +78,7 @@
 
 ---
 
-** How to Reach me:**
+**How to Reach me:**
 
 <p align="left">
   <a href="https://github.com/MEIMAOA" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
