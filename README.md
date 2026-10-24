@@ -66,6 +66,19 @@
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+<!--   2023 contributions snake (2023 is complete, so this is a static snapshot) -->
+### 2023 Contributions
+
+1,151 contributions · 199 active days
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-2023-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/snake-2023.svg" />
+    <img alt="2023 contributions — a snake eating the 2023 contribution grid" src="./assets/snake-2023.svg" />
+  </picture>
+</p>
+
 ---
 
 <div align="center">
