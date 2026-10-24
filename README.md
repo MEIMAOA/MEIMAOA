@@ -97,6 +97,10 @@
   <a href="https://github.com/MEIMAOA" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/MEIMAOA/SnakeGame/releases" target="blank"><img align="center" src="https://img.shields.io/badge/Releases-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Releases" /></a>
   <a href="https://github.com/MEIMAOA?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/Repositories-0366D6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <br/>
+  <a href="mailto:MEIMAOA@qq.com"><img align="center" src="https://img.shields.io/badge/Email-MEIMAOA%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email MEIMAOA@qq.com" /></a>
+  <a href="mailto:MMA0508@163.com"><img align="center" src="https://img.shields.io/badge/Email-MMA0508%40163.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email MMA0508@163.com" /></a>
+  <a href="mailto:MMA0508@162.com"><img align="center" src="https://img.shields.io/badge/Email-MMA0508%40162.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email MMA0508@162.com" /></a>
 </p>
 
 #### Thanks for visiting
